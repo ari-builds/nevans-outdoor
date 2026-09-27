@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nevans-outdoor-services.cream-lamp-4179.chatgpt.site/sitemap.xml
